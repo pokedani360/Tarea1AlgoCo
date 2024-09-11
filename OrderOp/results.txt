@@ -1,0 +1,108 @@
+
+--- Procesando archivo: data/parcialmente_ordenado_grande.txt ---
+Insertion Sort took 3872 milliseconds.
+Merge Sort took 39 milliseconds.
+Quick Sort took 6979 milliseconds.
+C++ Standard Sort took 17 milliseconds.
+
+--- Procesando archivo: data/parcialmente_ordenado_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/duplicados_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/ordenado_ascendente_medio.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 3 milliseconds.
+Quick Sort took 444 milliseconds.
+C++ Standard Sort took 1 milliseconds.
+
+--- Procesando archivo: data/duplicados_muchos_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/duplicados_grande.txt ---
+Insertion Sort took 10907 milliseconds.
+Merge Sort took 44 milliseconds.
+Quick Sort took 19 milliseconds.
+C++ Standard Sort took 22 milliseconds.
+
+--- Procesando archivo: data/aleatorio_muy_grande.txt ---
+Insertion Sort took 11031 milliseconds.
+Merge Sort took 44 milliseconds.
+Quick Sort took 18 milliseconds.
+C++ Standard Sort took 23 milliseconds.
+
+--- Procesando archivo: data/aleatorio_grande.txt ---
+Insertion Sort took 10852 milliseconds.
+Merge Sort took 43 milliseconds.
+Quick Sort took 18 milliseconds.
+C++ Standard Sort took 23 milliseconds.
+
+--- Procesando archivo: data/ordenado_ascendente_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/aleatorio_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/ordenado_descendente_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/casi_ordenado_medio.txt ---
+Insertion Sort took 4 milliseconds.
+Merge Sort took 3 milliseconds.
+Quick Sort took 280 milliseconds.
+C++ Standard Sort took 1 milliseconds.
+
+--- Procesando archivo: data/parcialmente_ordenado_medio.txt ---
+Insertion Sort took 50 milliseconds.
+Merge Sort took 3 milliseconds.
+Quick Sort took 71 milliseconds.
+C++ Standard Sort took 1 milliseconds.
+
+--- Procesando archivo: data/aleatorio_medio.txt ---
+Insertion Sort took 106 milliseconds.
+Merge Sort took 3 milliseconds.
+Quick Sort took 1 milliseconds.
+C++ Standard Sort took 2 milliseconds.
+
+--- Procesando archivo: data/casi_ordenado_grande.txt ---
+Insertion Sort took 420 milliseconds.
+Merge Sort took 37 milliseconds.
+Quick Sort took 28089 milliseconds.
+C++ Standard Sort took 16 milliseconds.
+
+--- Procesando archivo: data/ordenado_ascendente_grande.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 35 milliseconds.
+Quick Sort took 43879 milliseconds.
+C++ Standard Sort took 12 milliseconds.
+
+--- Procesando archivo: data/casi_ordenado_pequeno.txt ---
+Insertion Sort took 0 milliseconds.
+Merge Sort took 0 milliseconds.
+Quick Sort took 0 milliseconds.
+C++ Standard Sort took 0 milliseconds.
+
+--- Procesando archivo: data/duplicados_medio.txt ---
+Insertion Sort took 105 milliseconds.
+Merge Sort took 4 milliseconds.
+Quick Sort took 1 milliseconds.
+C++ Standard Sort took 2 milliseconds.

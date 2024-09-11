@@ -1,0 +1,5 @@
+-o main src/main.cpp src/algoritmos.cpp -Iinclude
+mkdir data
+g++ -Iinclude src/generar_datasets.cpp -o generar_datasets
+./generar_dataset
+./main

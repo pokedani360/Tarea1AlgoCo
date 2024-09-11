@@ -1,0 +1,5 @@
+g++ -std=c++17 -O2 src/generate_datasets.cpp -o generate_matrices
+g++ -std=c++17 -O2 src/main.cpp src/matrix_ops.cpp -o matrix_operations
+
+./generate_matrices
+./matrix_operations

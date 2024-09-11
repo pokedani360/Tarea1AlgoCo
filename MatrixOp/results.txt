@@ -1,0 +1,54 @@
+Error: El número de columnas de A (256) debe ser igual al número de filas de B (512).
+
+Comparando métodos de multiplicación de matrices 128x128:
+Multiplicación cúbica tradicional took 0.00111108 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.00104462 seconds.
+Multiplicación usando Strassen took 0.228531 seconds.
+
+Comparando métodos de multiplicación de matrices 256x256:
+Multiplicación cúbica tradicional took 0.010555 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.00798745 seconds.
+Multiplicación usando Strassen took 1.58844 seconds.
+
+Error: El número de columnas de A (512) debe ser igual al número de filas de B (256).
+
+Comparando métodos de multiplicación de matrices 512x512:
+Multiplicación cúbica tradicional took 0.115418 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.0626631 seconds.
+Multiplicación usando Strassen took 11.2669 seconds.
+
+Comparando métodos de multiplicación de matrices 512x512:
+Multiplicación cúbica tradicional took 0.114145 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.0619807 seconds.
+Multiplicación usando Strassen took 11.1175 seconds.
+
+Comparando métodos de multiplicación de matrices 128x128:
+Multiplicación cúbica tradicional took 0.00110103 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.00101938 seconds.
+Multiplicación usando Strassen took 0.228267 seconds.
+
+Comparando métodos de multiplicación de matrices 256x256:
+Multiplicación cúbica tradicional took 0.0109471 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.00785993 seconds.
+Multiplicación usando Strassen took 1.56615 seconds.
+
+Error: El número de columnas de A (128) debe ser igual al número de filas de B (256).
+
+Error: El número de columnas de A (512) debe ser igual al número de filas de B (1024).
+
+Error: El número de columnas de A (1024) debe ser igual al número de filas de B (512).
+
+Comparando métodos de multiplicación de matrices 1024x1024:
+Multiplicación cúbica tradicional took 1.04891 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.489935 seconds.
+Multiplicación usando Strassen took 78.8444 seconds.
+
+Error: El número de columnas de A (256) debe ser igual al número de filas de B (128).
+
+Error: El número de columnas de A (512) debe ser igual al número de filas de B (1024).
+
+Error: El número de columnas de A (1024) debe ser igual al número de filas de B (512).
+
+Comparando métodos de multiplicación de matrices 1024x1024:
+Multiplicación cúbica tradicional took 1.20261 seconds.
+Multiplicación cúbica optimizada (con transposición) took 0.495572 seconds.
